@@ -73,3 +73,17 @@ src/
 ├── index.js         # Ponto de entrada
 └── styles/          # Arquivos de estilização
 ```
+
+## Imagens
+
+![todolist](./img/todolist.png)
+
+![clickcounter](./img/clickcounter.png)
+
+![tictactoe](./img/tictactoe.png)
+
+![calculadora](./img/calculator.png)
+
+![cep](./img/cep.png)
+
+---
