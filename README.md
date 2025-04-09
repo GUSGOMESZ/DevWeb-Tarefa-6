@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento Web - Faculdade
+# Projeto de Desenvolvimento Web - Tarefa 6 📚
 
 Este projeto foi desenvolvido para a disciplina **Desenvolvimento Web** e consiste em uma aplicação React com múltiplas funcionalidades interativas. O site inclui uma lista de tarefas (todo-list), um contador de cliques, um jogo da velha, uma calculadora e um buscador de CEP. Para navegação entre as páginas, foi utilizada a biblioteca `react-router-dom`.
 
